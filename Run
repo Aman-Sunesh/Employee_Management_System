@@ -1,0 +1,5 @@
+g++ Main.cpp User.cpp UserManager.cpp login.cpp generateAccount.cpp \
+    Administrator.cpp Professor.cpp Student.cpp Course.cpp CourseManager.cpp \
+    -o university_management_system
+
+./university_management_system
