@@ -6,7 +6,8 @@
 #include <cstdlib>
 #include <time.h>
 #include <vector>
-
+#include <termios.h>    
+#include <unistd.h>     
 #include "User.h"
 #include "UserManager.h"
 #include "Utility.h"
